@@ -1,0 +1,14 @@
+C:\Users\77784228\RiderProjects\ConsoleApp4\work5\bin\Debug\net8.0\work5.exe
+C:\Users\77784228\RiderProjects\ConsoleApp4\work5\bin\Debug\net8.0\work5.deps.json
+C:\Users\77784228\RiderProjects\ConsoleApp4\work5\bin\Debug\net8.0\work5.runtimeconfig.json
+C:\Users\77784228\RiderProjects\ConsoleApp4\work5\bin\Debug\net8.0\work5.dll
+C:\Users\77784228\RiderProjects\ConsoleApp4\work5\bin\Debug\net8.0\work5.pdb
+C:\Users\77784228\RiderProjects\ConsoleApp4\work5\obj\Debug\net8.0\work5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\77784228\RiderProjects\ConsoleApp4\work5\obj\Debug\net8.0\work5.AssemblyInfoInputs.cache
+C:\Users\77784228\RiderProjects\ConsoleApp4\work5\obj\Debug\net8.0\work5.AssemblyInfo.cs
+C:\Users\77784228\RiderProjects\ConsoleApp4\work5\obj\Debug\net8.0\work5.csproj.CoreCompileInputs.cache
+C:\Users\77784228\RiderProjects\ConsoleApp4\work5\obj\Debug\net8.0\work5.dll
+C:\Users\77784228\RiderProjects\ConsoleApp4\work5\obj\Debug\net8.0\refint\work5.dll
+C:\Users\77784228\RiderProjects\ConsoleApp4\work5\obj\Debug\net8.0\work5.pdb
+C:\Users\77784228\RiderProjects\ConsoleApp4\work5\obj\Debug\net8.0\work5.genruntimeconfig.cache
+C:\Users\77784228\RiderProjects\ConsoleApp4\work5\obj\Debug\net8.0\ref\work5.dll
